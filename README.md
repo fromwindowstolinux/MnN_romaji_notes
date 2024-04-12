@@ -1,2 +1,3 @@
-# MnN_romaji_notes
-Romaji notes for Minna no Nihongo Textbook
+# みんな の 日本語 ノート
+
+Notes for Minna no Nihongo Textbook
