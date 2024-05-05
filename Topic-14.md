@@ -1,42 +1,48 @@
 # TOPIC 14
 
-### Vocabulary
+## Vocabulary
 
-つけます(tsukemasu) - turn on
+(me i shi) - noun
 
-けします(keshimasu) - turn off
+(do u shi) - verb
+
+(ke i yo u shi) - adjective
+
+つけます(tsu ke ma su) - turn on
+
+けします(ke shi ma su) - turn off
 
 # Te Form
 
 ## Special
 
-いきます(ikimasu) > いって(itte)
+いきます(i ki ma su) > いって(it te)
 
 ## Group 1 (~iます)
 
 ### い(i)、ち(chi)、り(ri)
 
-    For どうし(doushi) aka verb with い / ち / り　before ます:-
+    For どうし(doushi) with い / ち / り　before ます:-
 
         remove い / ち / り
 
             replace with って
             
-### Example
+#### Example
 
-- もら**い**ます(mora**i**masu) > もら**って**(mora**tte**)
+- もら**い**ます(mo ra **i** ma su) > もら**って**(mo ra**t te**)
 - 
 - 
 
 ### み(mi)、び(bi)、に(ni)
 
-    For どうし(doushi) aka verb with み / び / に　before ます:-
+    For どうし(doushi) with み / び / に　before ます:-
 
         remove み / び / に
 
             replace with んで
             
-### Example
+#### Example
 
 - 
 - 
@@ -44,35 +50,33 @@
 
 ### き(ki)
 
-    For どうし(doushi) aka verb with き　before ます:-
+    For どうし(doushi) with き　before ます:-
 
         remove き
 
             replace with いて
             
-### Example
+#### Example
 
 - 
 
 ### ぎ(gi)
 
-    For どうし(doushi) aka verb with ぎ　before ます:-
+    For どうし(doushi) with ぎ　before ます:-
 
         remove ぎ
 
             replace with いで
             
-### Example
+#### Example
 
 - 
 
 ### し(gi)
 
-    For どうし(doushi) aka verb with し　before ます:-
+    For どうし(doushi) with し　before ます:-
 
-        remove し
-
-            replace with して
+        add て after し
             
 ### Example
 
@@ -82,15 +86,15 @@
 
 ### e = え、け、げ、せ、ぜ、て、で、ね、へ、べ、ぺ、め、れ
 
-    For どうし(doushi) aka verb with e before ます:-
+    For どうし(doushi) with e before ます:-
 
         add て after e
             
-### Example
+#### Example
 
 - 
 
-### Special
+### Special Group 2
 
 おきます(okimasu) > おきて(okite) - get up
 
@@ -114,4 +118,4 @@
 
 します(shimasu) > して(shite)
 
-めいし(meishi) aka noun + します(shimasu) > めいし+して
+めいし(meishi) + します(shimasu) > めいし+して
